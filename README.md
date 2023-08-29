@@ -5,4 +5,4 @@ _G.Toggles = "V" -- You can put any keybind
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Faded/main/YesEpic", true))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/SpaceYes/Lua/Main/DaHood.Lua'))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CF-Trail/tzechco-PlsDonateAutofarmBackup/main/autofarm"))()
-and i will do more for u guys<3
+dx9 guy: loadstring(game:HttpGet('https://raw.githubusercontent.com/DX9user-renpy/DX9WARE/main/Private/UI/Lib/script.lua'))()
